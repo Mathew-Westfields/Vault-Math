@@ -2,5 +2,6 @@
   "livePreview": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": true
 }

@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linear Algebra/Vectorspace.md",
+            "file": "Geometry/Cotangent Sheaf.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "0b18c2ef0fcf3d20"
+      },
+      {
+        "id": "bba34fe24cc0bdcc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Geometry/Cotangent Sheaf.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "0b18c2ef0fcf3d20"
       }
     ],
     "direction": "vertical"
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Vectorspace.md",
+                "file": "Geometry/Cotangent Sheaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Vectorspace.md",
+                "file": "Geometry/Cotangent Sheaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Vectorspace.md"
+                "file": "Geometry/Cotangent Sheaf.md"
               }
             }
           }
@@ -129,5 +143,16 @@
     "collapsed": true
   },
   "active": "72bc1c56f840e694",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Category Theory/Sheaf.md",
+    "Category Theory/Presheaf.md",
+    "Category Theory/Functor.md",
+    "Algebra/Ideal Sheaf.md",
+    "Geometry/Cotangent Sheaf.md",
+    "Algebra/Vanishing Ideal.md",
+    "Topology/Homology Theory.md",
+    "Topology/Eilenberg-Steenrod Axioms.md",
+    "Analysis/Taylors Theorem.md",
+    "Algebra/Linear Algebra/Vectorspace.md"
+  ]
 }
