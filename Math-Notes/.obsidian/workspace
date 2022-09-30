@@ -9,25 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geometry/Cotangent Sheaf.md",
+            "file": "Category Theory/Sheaf.md",
             "mode": "source",
             "source": true
           }
-        },
-        "group": "0b18c2ef0fcf3d20"
+        }
       },
       {
-        "id": "bba34fe24cc0bdcc",
+        "id": "23864ac55c38bdb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geometry/Cotangent Sheaf.md",
-            "mode": "preview",
+            "file": "Algebra/Linear Algebra/Vectorspace.md",
+            "mode": "source",
             "source": true
           }
-        },
-        "group": "0b18c2ef0fcf3d20"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometry/Cotangent Sheaf.md",
+                "file": "Algebra/Linear Algebra/Vectorspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometry/Cotangent Sheaf.md",
+                "file": "Algebra/Linear Algebra/Vectorspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometry/Cotangent Sheaf.md"
+                "file": "Algebra/Linear Algebra/Vectorspace.md"
               }
             }
           }
@@ -142,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72bc1c56f840e694",
+  "active": "23864ac55c38bdb2",
   "lastOpenFiles": [
-    "Category Theory/Sheaf.md",
-    "Category Theory/Presheaf.md",
     "Category Theory/Functor.md",
-    "Algebra/Ideal Sheaf.md",
-    "Geometry/Cotangent Sheaf.md",
-    "Algebra/Vanishing Ideal.md",
-    "Topology/Homology Theory.md",
-    "Topology/Eilenberg-Steenrod Axioms.md",
+    "Analysis/Lebesgue Integral.md",
     "Analysis/Taylors Theorem.md",
-    "Algebra/Linear Algebra/Vectorspace.md"
+    "Analysis/Hölder Inequality.md",
+    "Analysis/Cauchy-Schwarz Inequality.md",
+    "Category Theory/Sheaf.md",
+    "Geometry/Cotangent Sheaf.md",
+    "Geometry/Cotangent Space.md",
+    "Category Theory/Presheaf.md",
+    "Geometry/Symbol (Differential Operator).md"
   ]
 }
