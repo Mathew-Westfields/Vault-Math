@@ -1,3 +1,5 @@
+#definition
+#algebra
 # Sheaf
 Let $X \in Top$ and $X = \bigcup U_i$ open covering.
 ## Definition

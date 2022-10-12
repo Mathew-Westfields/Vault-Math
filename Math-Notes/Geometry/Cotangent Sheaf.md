@@ -10,4 +10,4 @@ $$\mathcal{T}^* = \Delta^*(I_\Delta/I_\Delta^2)$$
 the pullback along $\Delta$ of the Ideal modulo it's square.
 
 ### Remark:
--  One can verify that this is a [[Sheaf#Definition|Sheaf]].
+-  One can verify that this is a [[Sheaf#Definition|Sheaf]]
