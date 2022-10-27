@@ -1,3 +1,5 @@
+#topology
+#definition 
 # Final and Initial Topology
 ## Initial Topology
 Given a set $X$ and an  $(Y_i)_{i \in I}$ of top spaces with functions $f_i: X \to Y_i$
