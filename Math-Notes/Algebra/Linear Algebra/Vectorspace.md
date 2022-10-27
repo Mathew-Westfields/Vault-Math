@@ -1,7 +1,7 @@
 # Vectorspace
 
 ## Definition
-Let $V$ be a set and $F$ a Field then we call $(V,+,\cdot_F)$ with $+:V\times V \longrightarrow V$ and $\cdot:K\times V \longrightarrow V$ a Vectorspace if the following Axioms are satisfied:
+Let $V$ be a set and $F$ a Field then we call $(V,+,\cdot_F)$ with $+:V\times V \lra V$ and $\cdot:K\times V \lra V$ a Vectorspace if the following Axioms are satisfied:
 ### Addition is abelian Group
 - $u+(v+w) = (u + v) + w$
 - $u+v = v+u$

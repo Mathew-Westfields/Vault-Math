@@ -2,16 +2,16 @@
 ## Definition
 We call $T \subset \mathcal{P}(X)$ a **topology** on $X$ if
 $$ \emptyset,X \in T$$
-$$U_i \in T \Longrightarrow \bigcap_{i = 1}^n U_i \in T$$
-$$ U_i \in T \Longrightarrow \bigcup U_i \in T$$
+$$U_i \in T \Lra \bigcap_{i = 1}^n U_i \in T$$
+$$ U_i \in T \Lra \bigcup U_i \in T$$
 We call the elements of $T$ **open sets**
 
 ## Closed Sets
 We call a set $A$ **closed** if $A^c$ is an open set
 The **System of all closed Sets** $C$ defines a topology and has the following proprerties.
 $$ \emptyset,X \in C$$
-$$A_i \in C \Longrightarrow \bigcup_{i = 1}^n A_i \in C$$
-$$ A_i \in C \Longrightarrow \bigcap A_i \in C$$
+$$A_i \in C \Lra \bigcup_{i = 1}^n A_i \in C$$
+$$ A_i \in C \Lra \bigcap A_i \in C$$
 
 ## Comparison of Topologies
 ### Coarse
