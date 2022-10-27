@@ -1,5 +1,5 @@
 # Vault-Math
 
-This repo uses a Community Plugin Obsidian LateX which is pushed into the .obsidian file.
-When using this vault you need to enable it in the Settings to use the shortend LateX commands defined in the preamble.sty document.
-
+This Repo uses the plugin **obsidian-latex** for which the repo can be found here https://github.com/xldenis/obsidian-latex .
+To use this plugin you need to download it via the community plugin launcher and enable it in your settings.
+ 
