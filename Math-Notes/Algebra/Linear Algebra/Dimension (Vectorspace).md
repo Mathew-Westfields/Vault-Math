@@ -1,16 +1,16 @@
 #algebra 
 #linear-algebra
-# Dimension
-## Definition
+# Definition
 Let $V$ be a Vectorspace with $(b_1,\ldots,b_n)$ Basis of $V$ we call 
 $$ \dim(V) = n$$
-## Rank-Theorem
+
+# Rank-Theorem
 Let $f:V \lra W$ be a linear map between $K$-Vectorspaces.
 Then:
 $$\dim(V) = \dim(\ker(f)) + \dim(\im(f))$$
 follows immediately from [[Homomorphism-Theorem]]
 
-## Dimension Formulars
+# Dimension Formulars
 Let $U,V$ be finite dimensional Vectorspaces:
 Then
 $$\dim(U+V) = \dim(U) + dim(V) - \dim(U \cap V)$$

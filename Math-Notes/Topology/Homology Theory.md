@@ -1,5 +1,4 @@
-# Homology Theory
-## Definition
+# Definition
 A **homology-theory** is a sequence of [[Functor#Covariant Functor|Covariant Functors]]
 $$h_n:Top^2 \lra RMod$$
 which come with a natural transformation

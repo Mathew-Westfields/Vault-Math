@@ -1,22 +1,20 @@
-# Hom-Functors in Top
-## Definition
-### Covariant Hom-Functor
-$$C(X,\cdot):Top \lra Top$$  is a covariant Functor which maps
-$$ Y \lmt C(X,Y) $$
+
+From now on write $X^Y := C(X,Y)$ with $CO$-Topology
+# Definition
+## Covariant Hom-Functor
+$$X^{(\cdot)}:Top \lra Top$$  is a covariant Functor which maps
+$$ Y \lmt C(X,Y)=:Y^X $$
 And
-$$ \big(\phi:Y \ra Z\big) \lmt \big(C(X,\phi):C(X,Y) \ra C(X,Z)\big) $$
-$$C(X,\phi): f \lmt \phi \circ f $$
+$$ \big(\phi:Y \ra Z\big) \lmt \big(\phi^X: Y^X \ra Z^X\big) $$
+$$\phi^X: f \lmt \phi \o f $$
 
-### Contravariant Hom-Functor
+## Contravariant Hom-Functor
 
-$$C(\cdot,Y):Top \lra Top$$  is a contravariant Functor which maps
-$$ X \lmt C(X,Y) $$
+$$(\cdot)^Y:Top \lra Top$$  is a contravariant Functor which maps
+$$ X \lmt C(X,Y):=X^Y $$
 And
-$$ \big(\psi:X \ra Z\big) \lmt \big(C(X,\psi):C(X,Y) \la C(X,Z)\big) $$
-$$C(\psi,Y): f \lmt f \circ \psi $$
+$$ \big(\psi:X \ra T\big) \lmt \big(Y^\psi:Y^T \lra Y^X\big) $$
+$$Y^\psi: f \lmt f \o \psi $$
 
-## Elementary Properties:
-### These Functors are well defined in CO-Top:
-For $\phi:Y \lra Z$ the map
-$$C(X,\phi):C(X,Y) \ra C(X,Z)$$
-$$ f \lmt \phi \circ f $$
+# Elementary Properties
+![[Elementary Properties of C(X,Y)-Functors]]

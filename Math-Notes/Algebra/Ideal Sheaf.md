@@ -1,5 +1,4 @@
-# Ideal Sheaf
-## Definition
+# Definition
 
-### Remark
+## Remark
 - An Ideal Sheaf is a [[Sheaf#Definition|Sheaf]]

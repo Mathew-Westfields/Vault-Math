@@ -1,5 +1,4 @@
-# Functor
 
-## Covariant Functor
+# Covariant Functor
 
-## Contravariant Functor
+# Contravariant Functor

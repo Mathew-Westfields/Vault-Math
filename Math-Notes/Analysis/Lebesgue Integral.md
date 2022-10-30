@@ -1,7 +1,6 @@
 #analysis 
-# Lebesgue Integral
-## Definition
+# Definition
 
-## Integration on Manifolds
+# Integration on Manifolds
 
-##
+#
