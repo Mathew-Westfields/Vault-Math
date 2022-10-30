@@ -1,5 +1,6 @@
 #algebra 
 #linear-algebra
+#definition 
 # Definition
 Let $V$ be a Vectorspace with $(b_1,\ldots,b_n)$ Basis of $V$ we call 
 $$ \dim(V) = n$$

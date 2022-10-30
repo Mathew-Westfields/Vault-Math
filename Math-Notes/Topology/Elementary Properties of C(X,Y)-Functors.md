@@ -1,4 +1,9 @@
 
+#topology 
+#homotopy-theory 
+#algebraic-topology 
+#theorem 
+
 Convention: $X^Y := C(X,Y)$ with $CO$-Topology
 
 # Hom-Functors are well defined in CO-Top

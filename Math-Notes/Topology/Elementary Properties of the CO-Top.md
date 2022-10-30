@@ -1,3 +1,8 @@
+#topology 
+#homotopy-theory 
+#algebraic-topology 
+#theorem 
+
 # Compatible with Sup-Norm
 Let $X$ be compact, Hausdorff and Y metric  $\Lra d_{\infty}$ the [[supremums-metric]] induces the Compact-Open Topology.
 

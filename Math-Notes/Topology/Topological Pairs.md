@@ -1,4 +1,6 @@
 #topology 
+#definition 
+
 # Definition
 We define the **Category of Topological Pairs** $Top^2$ by setting 
 $$Obj_{Top^2} = \{(X,A) \in Top \times Top: A \subset X\}$$

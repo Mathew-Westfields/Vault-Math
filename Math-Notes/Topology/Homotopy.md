@@ -1,3 +1,8 @@
+#definition 
+#topology 
+#algebraic-topology 
+#homotopy-theory 
+
 # Definition
 Let $(X,A),(Y,B)$ be top pairs and $f,g:(X,A) \lra (Y,B)$ continous map of pairs.
 Then we call a contious map

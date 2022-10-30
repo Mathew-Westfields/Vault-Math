@@ -1,3 +1,6 @@
+#definition 
+#geometry
+#differential-geometry
 Let $(M,\mc{A})$ be a $n$ dimensional differential manifold.
 # Definition
 Let $I_p = \{f \in \mc{A}_p : f(p) = 0\}$ be the Vanishing Ideal of the Germs of $\mc{A}$ at the point $p \in M$

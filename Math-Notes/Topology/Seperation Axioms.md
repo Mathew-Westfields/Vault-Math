@@ -1,3 +1,6 @@
+#topology 
+#definition 
+
 # T0
 # Hausdorff
 # Regular

@@ -1,4 +1,5 @@
 #definition
+#geometry 
 #algebra
 Let $X \in Top$ and $X = \bigcup U_i$ open covering.
 # Definition

@@ -1,3 +1,6 @@
+#definition 
+#geometry
+#differential-geometry
 Let $(M,\mathcal{A})$ be a $n$ dimensional differential manifold.
 To globalize the [[Cotangent Space]] we will need to chose all points at once, this is done
 by working with $M \times M$ and the diagonal map $\Delta$

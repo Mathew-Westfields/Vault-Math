@@ -1,3 +1,6 @@
+#topology 
+#definition 
+
 # Open Sets
 We call $T \subset \mathcal{P}(X)$ a **topology** on $X$ if
 $$ \emptyset,X \in T$$

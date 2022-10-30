@@ -1,4 +1,5 @@
-
+#definition 
+#topology 
 # Locally Compact
 Let $X$ be a topological space. We call $X$ **locally compact** if 
 $$\forall x \in X: \exists C(x) \text{ compact Neighborhood of x} $$

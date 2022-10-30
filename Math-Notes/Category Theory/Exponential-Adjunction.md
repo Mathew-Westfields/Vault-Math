@@ -1,3 +1,6 @@
+#definition 
+#category-theory 
+
 # Definition
 Let $A,B,C$ be Sets then we define the maps:
 $$(\cdot)^{\vee}:Map(A,Map(B,C)) \lra Map(A \times B, C)$$ by mapping $f \lmt f^{\vee}$ with $f^{\vee}:A\times B \lra C$ by $f^{\vee}(a,b) = f(a)(b)$

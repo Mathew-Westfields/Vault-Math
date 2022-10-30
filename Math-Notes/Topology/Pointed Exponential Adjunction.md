@@ -1,3 +1,8 @@
+#definition 
+#topology 
+#algebraic-topology 
+#homotopy-theory 
+
 # Recall
 Recall [[Topological Pairs#Pointed Spaces]] as well as [[Exponential-Adjunction#Definition]].
 Write $C_*(X,Y) := C(X,*_X;Y,*_Y) \subset C(X,Y)$ as subset of CO-Top
