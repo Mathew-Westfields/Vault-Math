@@ -23,7 +23,7 @@ Then $(C_*(X,Y),c_{y_0}:x \mapsto y_0)$ becomes itself a pointed space.
 #### Wedge Product
 
 #### Smash Product
-
+![[Smash-Product#Definition]]
 
 #### Collapse-Construction
 
